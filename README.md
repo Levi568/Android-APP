@@ -1,5 +1,6 @@
 # Android-APP  
 Used as remote control
 
-##Platform  
-Eclipse
+## Platform  
+Eclipse and [vitamio bundle](https://www.vitamio.org/en/)
+
